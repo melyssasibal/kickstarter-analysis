@@ -7,7 +7,7 @@ The purpose of this project is to analyze success rates of Kickstarter campaigns
 explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
 The analysis was performed by looking at the data through two perspectives. 
-### Analysis of Outcomes Based on Launch Date
+#### Analysis of Outcomes Based on Launch Date
 The data was disaggregated by parent category and launch date. 
 
 ![parent category and launch date](Outcomes_vs_Goals.png)
