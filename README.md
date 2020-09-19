@@ -8,7 +8,7 @@ explain how you performed your analysis using images and links to code, as well 
 
 The analysis was performed by looking at the data through two perspectives. 
 ### Analysis of Outcomes Based on Launch Date
-The data was disaggregated by ![parent category and launch date](kickstarter-analysis/Outcomes_vs_Goals.png). Kickstarter goals were grouped into 12 bands. The first band included goals less than $1,000. The following ten bands increased in increments of $4,999. The last band included goals over $50,000. 
+The data was disaggregated by ![parent category and launch date](Outcomes_vs_Goals.png). Kickstarter goals were grouped into 12 bands. The first band included goals less than $1,000. The following ten bands increased in increments of $4,999. The last band included goals over $50,000. 
 
 ### Analysis of Outcomes Based on Goals
 
